@@ -1,5 +1,6 @@
 # projectRBT
-Repository created for the project (Human Counter) 
+Repository created for the project (Human Counter)
+
 Link to contributors blogs:
 
 Rhea Gendrala: https://imageprocessing169685872.wordpress.com/
